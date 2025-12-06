@@ -1,4 +1,5 @@
 🎌 AnimeVerse
+
 👤 Identitas 
 Nama	Nyssa Obelia
 NIM	231401097
@@ -34,3 +35,4 @@ Sign In / Sign Up Screen
 🎥 Link Demo Aplikasi
 
 🔗 Demo Aplikasi: https://youtu.be/iL8tzu8tfKU
+
